@@ -1,4 +1,4 @@
-# pixiv-illust-buffer [![Build Status](https://travis-ci.org/akameco/pixiv-illust-buffersvg?branch=master)](https://travis-ci.org/akameco/pixiv-illust-buffer)
+# pixiv-illust-buffer [![Build Status](https://travis-ci.org/akameco/pixiv-illust-buffer.svg?branch=master)](https://travis-ci.org/akameco/pixiv-illust-buffer)
 
 > fetch pixiv illust buffer
 
