@@ -1,0 +1,38 @@
+{
+  "name": "pixiv-illust-buffer",
+  "version": "0.0.1",
+  "description": "fetch pixiv illust buffer",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "author": "akameco <akameco.t@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.13.0",
+    "xo": "^0.13.0"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "got": "^6.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akameco/pixiv-illust-buffer.git"
+  },
+  "keywords": [
+    "pixiv",
+    "image",
+    "画像",
+    "illust",
+    "buffer",
+    "fun",
+    "cute",
+    "かわいい",
+    "moe"
+  ],
+  "bugs": {
+    "url": "https://github.com/akameco/pixiv-illust-buffer/issues"
+  },
+  "homepage": "https://github.com/akameco/pixiv-illust-buffer#readme"
+}
