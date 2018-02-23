@@ -1,5 +1,7 @@
 # pixiv-illust-buffer [![Build Status](https://travis-ci.org/akameco/pixiv-illust-buffer.svg?branch=master)](https://travis-ci.org/akameco/pixiv-illust-buffer)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/pixiv-illust-buffer.svg)](https://greenkeeper.io/)
+
 > fetch pixiv illust buffer
 
 ## Installation
